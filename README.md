@@ -46,6 +46,3 @@ Made with: by Marcelo Rafael Gonçalves
   </a>
 </p>
 
-## License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/marcelo-rafael/projeto-le-scone/blob/master/LICENSE) for more information.
